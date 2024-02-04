@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+species_neural_network.ipynb filter=lfs diff=lfs merge=lfs -text
